@@ -1,19 +1,4 @@
-name: brjewelryonline
-favicon: null
-layout_spectrum: 0.9915975439362228
 typography_spectrum: 0.6445272183045745
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6353626702912152
   saturation: 0.09060168103314936
   rhythmicContrast: 0.5543772939126939
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9915975439362228
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: brjewelryonline
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: class="fb-like" data-share="true" data-width="450"
 purpose: []
